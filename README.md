@@ -40,3 +40,6 @@ Contact
 - WhatsApp: https://wa.me/917588063614
 - Instagram: https://www.instagram.com/vj2081656?igsh=anZoNzczeXFwNWds
 - Facebook: https://www.facebook.com/share/1Cuc2m8uTd/
+
+---
+Rebuild trigger: initiated by Copilot to refresh GitHub Pages
